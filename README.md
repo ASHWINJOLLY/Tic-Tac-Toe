@@ -12,9 +12,10 @@ New Game Option: Allows starting a new game after a win or draw.
 How to Run
 Compile: Compile the TicTacToe.java file using javac TicTacToe.java.
 Run: Run the compiled class using java TicTacToe.
+
 Screenshots
 
-Insert screenshots or GIFs showcasing your game's interface and gameplay here.
+
 
 Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork this repository, make changes, and submit pull requests.
