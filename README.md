@@ -25,10 +25,6 @@ Compile: Compile the TicTacToe.java file using javac TicTacToe.java.
 Run: Run the compiled class using java TicTacToe.
 
 
-Screenshots
-
-
-
 Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork this repository, make changes, and submit pull requests.
